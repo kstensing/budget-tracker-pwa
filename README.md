@@ -1,9 +1,8 @@
 # Budget-Tracker-PWA
 
   ## Description
-  This is the back end for a social media site.  Use this to create a database in MongoDB for your site.  There are API routes for POST, PUT, GET (all), GET (single), and DELETE for Users and Thoughts.  
+  Use this app to track your budget and expenses online and offline!  Simply use the interface to track withdrawals and deposits.
   
-  [DEMO VIDEO](https://drive.google.com/file/d/1OvRpIKfziinFl0RT4MCGE9HYyYCvyGKZ/view)
 
   ## Table of Contents
 
@@ -29,7 +28,7 @@
   See license info
   
   ## Usage
-  You must use MYSQL to create the database.  Then to seed it run, npm run seed.
+    See license info
   
 
 
