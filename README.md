@@ -1,4 +1,4 @@
-# Budget-Tracker-PWA
+# Financial Companion
 
   ## Description
   Use this app to track your budget and expenses online and offline!  Simply use the interface to track withdrawals and deposits.
